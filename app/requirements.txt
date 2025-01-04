@@ -157,3 +157,4 @@ wrapt==1.16.0
 yarl==1.11.1
 zipp==3.20.1
 pysqlite3-binary
+streamlit_pdf_viewer
